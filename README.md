@@ -1,7 +1,7 @@
 ## Oie pessoal! Eu sou a Bárbara Lorena 👩🏽‍💻
 
 - 👩‍🎓 Graduada em Sistemas de Informação
-- 🔭 Atualment sou Analista de testes Júnior
+- 🔭 Atualmente sou Analista de testes Júnior
 - 🌱 Aprendendo sobre testes automatizados e testes de software
 
 <div>
