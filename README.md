@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Graduada em Sistemas de Informação
 - 🔭 Atualmente sou Analista de testes Júnior
-- 🌱 Aprendendo sobre testes automatizados e testes de software
+- 🌱 Aprendendo sobre testes de software e testes automatizados
 
 <div>
 <a href="https://github.com/barbaralorenam">
