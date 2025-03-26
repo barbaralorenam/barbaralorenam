@@ -1,8 +1,8 @@
-## Oie pessoal! Eu sou a Bárbara Lorena👋
+## Oie pessoal! Eu sou a Bárbara Lorena 👩🏽‍💻
 
 - 👩‍🎓 Graduada em Sistemas de Informação
-- 🔭 Analista de testes Júnior
-- 🌱 Aprendendo sobre testes automatizados
+- 🔭 Atualment sou Analista de testes Júnior
+- 🌱 Aprendendo sobre testes automatizados e testes de software
 
 <div>
 <a href="https://github.com/barbaralorenam">
